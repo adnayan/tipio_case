@@ -1,0 +1,18 @@
+search-button {
+  border-radius: 5px;
+}
+
+.query-input {
+  margin-top: 10px;
+  font-size: small;
+}
+
+.pagination {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.current-page {
+  display: table;
+  margin: 0 auto;
+}
